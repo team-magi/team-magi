@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Official site of the Magi team.
+    text: Code is Law. 123
     button: Tell Me More
     buttonlink: "#services"
 
