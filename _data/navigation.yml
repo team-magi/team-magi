@@ -11,18 +11,18 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Technology"
       section: services
-    - title: "Portfolio"
+    - title: "Projects"
       section: portfolio
-    - title: "About"
+    - title: "Timeline"
       section: timeline
-    - title: "Team"
+    - title: "Members"
       section: team
-    - title: "Contact"
+    - title: "Contact Us"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
+    # - title: "Space-SF"
+    #   url: https://www.smartfund.space/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
