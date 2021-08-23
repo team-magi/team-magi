@@ -6,3 +6,6 @@ black: "#000"
 #Image Customization
 header-image: "../img/jurassic_park_dark.png"
 contact-image: "../img/map-image.png"
+
+# Color theme reference
+# https://sympli.io/blog/5-apps-to-help-you-choose-mesmerising-color-schemes/
