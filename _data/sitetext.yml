@@ -10,10 +10,10 @@
 # English (default)
 # -----------------
 en: &DEFAULT_EN
-  header:
-    title: Official site of the Magi team.
-    text: Code is Law. 123
-    button: Tell Me More
+  header: 
+    title: When engineers rule the world.
+    text: Code is Law
+    button: continue reading
     buttonlink: "#services"
 
   services:
